@@ -20,6 +20,7 @@ public class Prime_no {
 	}
 		else {
 			System.out.println("nahi hai");
+			System.out.println("nahi hai");
 		}
 	}
 	
